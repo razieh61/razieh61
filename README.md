@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @razieh61
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning .net core
-- 💞️ I’m looking to collaborate on analysis and design softwares
+- 👀 I’m interested in software development in test and automation
+- 🌱 I’m currently learning DevOps
+- 💞️ I’m looking to collaborate on testing software
 - 📫 How to reach me by email: razieh.m@gmail.com
 
 <!---
